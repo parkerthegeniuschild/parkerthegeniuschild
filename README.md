@@ -1,7 +1,7 @@
 ### :rocket: Faster than the North American X-15 :rocket:
 <br/>
 
-[![Mitchell's github stats](https://github-readme-stats.vercel.app/api?username=parkerthegeniuschild)](https://github.com/parkerthegeniuschild/github-readme-stats)
+[![Mitchell's github stats](https://github-readme-stats.vercel.app/api?username=parkerthegeniuschild&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/parkerthegeniuschild/github-readme-stats)
 
 <!--
 **parkerthegeniuschild/parkerthegeniuschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
